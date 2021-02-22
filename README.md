@@ -1,1 +1,2 @@
-# TestGame
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
